@@ -1,3 +1,5 @@
-* Hello
+# Hello
 
-*** Hosted on GitHub pages.. project
+### Hosted on GitHub pages.. project
+
+Why wont this theme work?
